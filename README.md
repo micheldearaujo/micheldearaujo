@@ -9,18 +9,11 @@
   
 </div>
 
-<div>
+  <div>
   
 #### Checkout some of my latest projects
 
 <a href="https://github.com/micheldearaujo/DeforestationDectetor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula" />
-</a>
-
-<a href="https://github.com/micheldearaujo/ExploringCovid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula" />
-</a>
-  <a href="https://github.com/micheldearaujo/DeforestationDectetor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula" />
 </a>
 
