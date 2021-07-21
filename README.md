@@ -5,11 +5,14 @@
 
 <a href="https://www.linkedin.com/in/michel-de-ara%C3%BAjo-947377197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>
 #### Checkout some of my latest projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula)](https://github.com/micheldearaujo/DeforestationDectetor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula)](https://github.com/micheldearaujo/ExploringCovid)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula)](https://github.com/micheldearaujo/ExploringCovid)
+</div>
 
 
 <!--
