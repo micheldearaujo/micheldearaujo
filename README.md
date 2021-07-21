@@ -18,6 +18,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula)](https://github.com/micheldearaujo/ExploringCovid)
 </div>
 
+<a href="https://github.com/micheldearaujo/DeforestationDectetor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula" />
+</a>
+
+<a href="https://github.com/micheldearaujo/ExploringCovid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula" />
+</a>
+
 
 <!--
 ### Hi there 👋
