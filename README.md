@@ -21,6 +21,11 @@ Currently I am working on my masters dissertation (at the DeforestationDetector 
 <a href="https://github.com/micheldearaujo/ExploringCovid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula" />
 </a>
+
+<a href="https://github.com/micheldearaujo/CryptoScreener">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=CryptoScreeners&theme=dracula" />
+</a>
+  
   
   </div>
 
