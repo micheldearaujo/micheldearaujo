@@ -1,5 +1,4 @@
-### Hi there
-#### Welcome to my Github profile
+### Hi there! Welcome to my Github profile
 
 <div>
   
@@ -11,7 +10,7 @@
 
   <div>
   
-#### Checkout some of my latest projects
+### Checkout some of my latest projects
 
 <a href="https://github.com/micheldearaujo/DeforestationDectetor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula" />
