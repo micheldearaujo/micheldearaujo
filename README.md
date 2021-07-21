@@ -14,9 +14,6 @@
 
 Currently I am working on my masters dissertation (at the DeforestationDetector repository), and other diverse projetcs, like the ExploringCovid in SQL and Tableau, the StocksMonitor.
   
-<a href="https://github.com/micheldearaujo/DeforestationDetector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula" />
-</a>
 
 <a href="https://github.com/micheldearaujo/ExploringCovid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula" />
