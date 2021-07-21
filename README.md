@@ -23,7 +23,7 @@ Currently I am working on my masters dissertation (at the DeforestationDetector 
 </a>
 
 <a href="https://github.com/micheldearaujo/CryptoScreener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=CryptoScreeners&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=CryptoScreener&theme=dracula" />
 </a>
   
   
