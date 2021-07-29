@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my Github profile
 
-<div>
+  <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micheldearaujo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,8 +8,10 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-
-</div>
+  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+   
+  </div>
+  <hr>
   
  <div>
   
