@@ -39,8 +39,8 @@ Currently I am working on my masters dissertation (at the DeforestationDetector 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula" />
 </a>
 
-<a href="https://github.com/micheldearaujo/CryptoScreener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=CryptoScreener&theme=dracula" />
+<a href="https://github.com/micheldearaujo/NoSQLSentimentAnalysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=NoSQLSentimentAnalysis&theme=dracula" />
 </a>
   
   
