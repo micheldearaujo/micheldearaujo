@@ -20,7 +20,8 @@
 </div>
 
   <div>
-  
+
+<!--
 ### Checkout some of my latest projects
   
 
@@ -47,7 +48,6 @@ Currently I am working on my masters dissertation (at the DeforestationDetector 
   </div>
 
 
-<!--
 ### Hi there 👋
 **micheldearaujo/micheldearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
